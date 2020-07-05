@@ -16,11 +16,11 @@
 ```
 
 ### output
-`
+```
 {
     success: Boolean,
     message: String,
     data: Object
 }
 
-`
+```
